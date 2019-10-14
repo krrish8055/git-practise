@@ -1,4 +1,4 @@
-# python script for a number whether it is positive or negative 
+#python script for positive or negative number
 num=int(input("enter a number : "))
 if num > 0:
    print("entered number is positive")
